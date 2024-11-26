@@ -152,7 +152,11 @@ body {
 
 .logos {
     padding: 30px;
-    max-width: 100%;
+    max-width: 20px;
+}
+.curso {
+    padding: 10px;
+    max-width: 300px;
 }
 
 .features-section {
@@ -228,7 +232,7 @@ body {
 }
 
 .feature-img {
-    max-width: 23px;
+    max-width: 55px;
 }
 
 .white-section {
